@@ -1,4 +1,5 @@
 # RAG & Agentic AI Pipeline
+<img width="1535" height="1024" alt="image" src="https://github.com/user-attachments/assets/94cd66fb-0216-499b-873f-2f190f94324d" />
 
 A retrieval-augmented generation system with vector search and an agentic orchestration layer. The project benchmarks retrieval accuracy and latency across multiple chunking strategies, making it useful for comparing RAG pipeline design choices before production deployment.
 
