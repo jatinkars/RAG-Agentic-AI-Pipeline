@@ -1,0 +1,1 @@
+Retrieval-augmented generation combines external knowledge retrieval with language model generation. A strong RAG pipeline improves grounding by retrieving relevant context before producing an answer.
